@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @fnadiya
-- 👀 I’m and passionate on UI/UX Design!!
-- 🌱 I’m currently learning Data Science hehe
+- 👋 Hi, I’m Nadiya
+- 👀 I’m and passionate on UI/UX Design!
+- 🌱 I’m currently learning Data Science
 - 💞️ I’m looking to collaborate on UI/UX Design
 - 📫 nadiyaftrn@gmail.com
 
